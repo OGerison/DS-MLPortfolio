@@ -9,3 +9,5 @@ This is a project that goes through the data preparation steps as one starts the
 ---
 Project 4:  Receipt
 This is a python project that genrates a receipt for a supermarket. The goal is to reinforce python concepts.
+---
+
