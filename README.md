@@ -11,6 +11,6 @@ Project 4: Email Spam Classification
 This is project that covers Exploratory Data Analysis with the main objective of comparing the ratio of spam to non spam emails in the dataset.
 ---
 Project 5:  Receipt
-This is a python project that genrates a receipt for a supermarket. The goal is to reinforce python concepts.
+This is a python project that generates a receipt for a supermarket. The goal is to reinforce python concepts.
 ---
 
