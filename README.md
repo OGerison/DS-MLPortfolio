@@ -1,4 +1,4 @@
-# NG30Days
+# Data Science and Machine Learning Projects
 
 ---
 Project 1: BMI
