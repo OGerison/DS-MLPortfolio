@@ -17,4 +17,7 @@ This is a project implemented with DataCamp to ground the data science process
 Project 6:  Receipt
 This is a python project that generates a receipt for a supermarket. The goal is to reinforce python concepts.
 ---
+Project 7(Sentiment Analysis Project):
+This is a continuous iteration of a Sentiment Analysis Project I intend to build and deploy using Streamlit when complete.
+---
 
