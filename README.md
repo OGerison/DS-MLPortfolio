@@ -1,7 +1,7 @@
 # Data Projects
 
 ---
-Folder 1: SQL
+Folder 1: Python
 This is a folder that houses all Python related Code.
 ---
 Folder 2: SQL
