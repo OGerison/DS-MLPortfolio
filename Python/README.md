@@ -11,6 +11,6 @@ This is project that covers Exploratory Data Analysis with the main objective of
 Project 4: Super Bowl Project
 This is a project implemented with DataCamp to ground the data science process.
 ---
-Datacamp Football Challenge
+Datacamp Football Challenge:
 This is a folder that houses code for the Datacamp Soccer Challene.
 ---
