@@ -9,5 +9,8 @@ This is project that covers Exploratory Data Analysis with the main objective of
 ![Capture](https://user-images.githubusercontent.com/56107729/174633350-83051e2c-681d-4404-9566-eb08a8a9f134.PNG)
 ---
 Project 4: Super Bowl Project
-This is a project implemented with DataCamp to ground the data science process
+This is a project implemented with DataCamp to ground the data science process.
+---
+Datacamp Football Challenge:
+This is a folder that houses code for the Datacamp Soccer Challene.
 ---
