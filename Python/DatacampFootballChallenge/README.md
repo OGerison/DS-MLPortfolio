@@ -1,4 +1,4 @@
-# Datacamp Cleaning Challenge
+# Datacamp Football Challenge
 This is python code to the Datacamp Football Challenge. Some of the findings to the questions set by the challenge are below;
 * Brentford with 463 committed the most fouls while Liverpool with 315 cmmitted the least fouls.
 * 18.7% of the games ended in a draw throughout the 18/19 season.
